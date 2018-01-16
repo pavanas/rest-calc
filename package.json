@@ -1,0 +1,28 @@
+{
+  "name": "rest-calc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "srv": "nodemon"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pavanas/rest-calc.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pavanas/rest-calc/issues"
+  },
+  "homepage": "https://github.com/pavanas/rest-calc#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "pug": "^2.0.0-rc.4"
+  },
+  "devDependencies": {
+    "nodemon": "^1.14.11"
+  }
+}
